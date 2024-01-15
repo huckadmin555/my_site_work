@@ -1,0 +1,19 @@
+.main-team {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.main-team::first-letter {
+    font-size: 200%;
+}
+
+.team-text {
+    margin: 40px;
+    margin-right: 40px;
+    border-bottom: 1px solid rgb(93, 93, 93, 0.3);
+}
+
+.text-team {
+    margin-left: 40px;
+    margin-right: 40px;
+}

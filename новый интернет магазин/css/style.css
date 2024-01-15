@@ -1,0 +1,350 @@
+.navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border-radius: 10px;
+}
+.navbar {
+    background: #0f0f0f;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    flood-opacity: 0.3;
+    font-size: 13px;
+}
+
+.type-logo {
+    height: auto;
+    color: orange;
+    font-family: brush script mt;
+}
+
+.function {
+    display: flex;
+    font-family: brush script mt;
+}
+
+.Home{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+}
+
+.Home:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.Services{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.Services:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.About{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.About:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.Team{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.Team:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.Gallery{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.Gallery:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.Pricing{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.Pricing:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.Contact{
+    height: auto;
+    color: orange;
+    text-shadow: 0 0 5px orange;
+    text-decoration-line: underline;
+    transition: 2s;
+    margin-left: 10px;
+}
+
+.Contact:hover{
+    color: #0f0f0f;
+    background: orange;
+    box-shadow: 0 0 10px orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    border-radius: 30px;
+    border: black;
+    text-decoration-line: none;
+    transition: 1s;
+    margin-right: 10px;
+}
+
+.x {
+    color: orange;
+    text-decoration-line: underline;
+    transition: 2s;
+}
+
+.x:hover {
+    color: #0f0f0f;
+    text-decoration-line: none;
+    transition: 1s;
+}
+
+.sect{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.zog {
+    margin-top: 20px;
+}
+
+.img-block {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.services {
+    background: orange;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.text-zogolovok{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.text-block {
+    display: flex;
+    justify-content: space-evenly;
+}
+.our-company-box2 {
+    margin-left: 160px;
+    margin-right: 160px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.our-company {
+    text-align: center;
+}
+
+.oblaco {
+    display: flex;
+}
+
+.domic {
+    display: flex;
+}
+
+.ims-zogolovoki{
+    display: flex;
+}
+
+.imeg-rig {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.zogolovoki {
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-pod-zog {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.text-button {
+    background: #0f0f0f;
+    color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 15px;
+    margin-top: 15px;
+    padding-bottom: 50px;
+}
+
+.button {
+    text-align: right;
+}
+
+button {
+    border: 3px solid orange;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: transparent;
+    border-radius: 15px;
+    color: orange;
+    transition: all 0.5s;
+}
+button:hover{
+    transition: all 0.5s;
+    background: orange;
+    color: #0f0f0f;
+    border: 0px solid ;
+}
+
+.r {
+    color: white;
+    transition: all 2s;
+}
+
+.r:hover {
+    color: orange;
+    font-size: 25px;
+    transition: all 2s;
+}
+
+
+.navbutton {
+    background: #302A31;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.button-podtext {
+    display: flex;
+}
+
+.button-down{
+    background: #191919;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.w {
+    margin-left: 5px;
+    color: rgb(138, 138, 138);
+    text-decoration-line: none;
+    font-family: century gothic;
+    transition: all 1s;
+}
+
+.w:hover {
+    color: orange;
+    text-shadow: 0 0 10px orange;
+    transition: all 1s;
+}
+
+.a-w {
+    display: flex;
+}
+
+body {
+    color: #222;
+    background: #fff;
+}
+  a {
+    color: orange;
+}
+  
+  /* Стили Тёмной темы */
+  body.dark-theme {
+    color: #eee;
+    background: #121212;
+}

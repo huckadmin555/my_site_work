@@ -1,0 +1,55 @@
+.fort>li {
+    display: inline-block;
+}
+
+.fort>li+li:before {
+    content: "/\00a0";
+    padding: 0 5px;
+    color: #ccc;
+}
+
+.forget>li {
+    display: inline-block;
+}
+
+.forget>li+li:before {
+    content: "/\00a0";
+    padding: 0 5px;
+    color: #ccc;
+}
+
+.list {
+    color: orange;
+    text-decoration: none;
+}
+
+.main-center {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.main-h {
+    border-bottom: 1px solid rgb(93, 93, 93, 0.3);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.web {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.web-2 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.web-3 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.web-4 {
+    margin-left: 40px;
+    margin-right: 40px;
+}

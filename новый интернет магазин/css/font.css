@@ -1,0 +1,192 @@
+.zog {
+    font-size: 20px;
+    font-family: century gothic;
+}
+
+.text1 {
+    color: rgb(160, 160, 160);
+    font-family: century gothic;
+}
+
+h3 {
+    font-family: century gothic;
+    font-size: 25px;
+}
+
+.icon {
+    font-size: 55px;
+    transition: 1s;
+}
+
+.icon:hover {
+    color: white;
+    font-size: 35px;
+    transition: 1s;
+}
+
+.text {
+    font-family: century gothic;
+}
+
+.text2 {
+    font-family: century gothic;
+}
+
+.text3 {
+    font-family: century gothic;
+}
+
+.text4 {
+    font-family: century gothic;
+}
+
+.text-p1{
+    font-family: impact;
+}
+
+.text-p2{
+    font-family: impact;
+}
+
+.text-p3{
+    font-family: impact;
+}
+
+.text-p4{
+    font-family: impact;
+}
+h5{
+    font-size: 30px;
+    font-family: century gothic;
+}
+
+.svg {
+    font-size: 55px;
+    transition: 2s;
+    text-shadow: 0 0 20px orange;
+}
+
+.svg:hover {
+    font-size: 30px;
+    color: orange;
+    text-shadow: 0 0 20px #0f0f0f;
+    transition: 2s;
+}
+
+h6 {
+    font-size: 35px;
+    font-family: century gothic;
+}
+
+.massov {
+    font-family: century gothic;
+}
+
+button {
+    font-family: century gothic;
+}
+
+.button-zog {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: rgb(184, 184, 184);
+}
+
+.button-podtext {
+    font-size: 13px;
+    color: rgb(138, 138, 138);
+    font-family: Arial, sans-serif;
+}
+
+.giv {
+    color: rgb(184, 184, 184);
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+.giv:hover {
+    color: red;
+    font-size: 35px;
+    transition: all 0.5s;
+}
+
+.gif {
+    color: rgb(184, 184, 184);
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+.gif:hover {
+    color: rgb(0, 94, 255);
+    font-size: 35px;
+    transition: all 0.5s;
+}
+
+.gip {
+    color: rgb(184, 184, 184);
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+.gip:hover {
+    color: rgb(92, 162, 255);
+    font-size: 35px;
+    transition: all 0.5s;
+}
+
+.gib {
+    color: rgb(184, 184, 184);
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+.gib:hover {
+    color: rgb(176, 49, 255);
+    font-size: 35px;
+    transition: all 0.5s;
+}
+
+.git {
+    color: rgb(184, 184, 184);
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+.git:hover {
+    color: rgb(92, 162, 255);
+    font-size: 35px;
+    text-transform: uppercase;
+    background: linear-gradient(45deg, rgb(177, 0, 204), rgb(255, 0, 204), rgb(255, 3, 3), rgb(255, 119, 0), rgb(93, 88, 29));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+    transition: all 0.5s;
+}
+
+.erd {
+    font-size: 13px;
+    color: rgb(138, 138, 138);
+    font-family: Arial, sans-serif;
+}
+
+.erd:hover {
+    color: white;
+    text-decoration-line: underline;
+    cursor: pointer;
+    text-shadow: 0 0 10px white;
+}
+
+.ddos {
+    color: rgb(138, 138, 138);
+    text-decoration-line: none;
+    font-family: century gothic;
+    transition: 1s;
+}
+
+.ddos:hover{
+    color: white;
+    text-decoration-line: underline;
+    font-family: century gothic;
+    text-shadow: 0 0 10px white;
+    transition: 1s;
+}
